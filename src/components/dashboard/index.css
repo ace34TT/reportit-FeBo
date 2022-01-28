@@ -1,0 +1,23 @@
+.card {
+    overflow: hidden;
+}
+
+.card-1 {
+    background: rgb(94, 80, 80);
+    background: linear-gradient(51deg, rgba(203, 47, 47, 1) 0%, rgba(247, 114, 104, 1) 100%);
+}
+
+.card-2 {
+    background: rgb(89, 122, 120);
+    background: linear-gradient(51deg, rgba(165, 200, 197, 1) 0%, rgba(0, 151, 255, 1) 100%);
+}
+
+.card-3 {
+    background: rgb(255, 242, 118);
+    background: linear-gradient(51deg, rgba(255, 242, 118, 1) 0%, rgba(223, 255, 140, 1) 100%);
+}
+
+.card-4 {
+    background: rgb(161, 250, 166);
+    background: linear-gradient(51deg, rgba(161, 250, 166, 1) 0%, rgba(208, 247, 104, 1) 100%);
+}
